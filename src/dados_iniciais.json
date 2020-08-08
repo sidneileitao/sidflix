@@ -1,101 +1,72 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "Espiritualidade",
+      "cor": "#9cd33b"    ,
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Como integrar relaxamento e fluidez com as responsabilidades do dia a dia",
+          "url": "https://www.youtube.com/watch?v=-IetUEFaqMg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Programa Entrevidas - Marcello Cotrim - Carência e Autodesrespeito",
+          "url": "https://www.youtube.com/watch?v=PDh7QgCyCBg"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "CALM",
+          "url": "https://www.youtube.com/watch?v=JK-dmKLFGnw&mc_cid=a1b962664a&mc_eid=bac6c3cc23"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Neville Goddard - Esperando por aquilo que você já sabe que vai acontecer",
+          "url": "https://www.youtube.com/watch?v=l6z4tqmI4ic"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "https://www.youtube.com/watch?v=ldFDELFNzwc",
+          "url": "https://www.youtube.com/watch?v=ldFDELFNzwc"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Receitas",
+      "cor": "#00C86F",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "PÃO CASEIRO PARA INICIANTES: Receita fácil para quem nunca fez pão",
+          "url": "https://www.youtube.com/watch?v=nAWHwvnO5SY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Lombo de porco: aprenda a assar carne no ponto certo | Rita Lobo | Cozinha Prática",
+          "url": "https://www.youtube.com/watch?v=C2yjV_Mzyy4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Arroz doce tradicional | Rita Lobo",
+          "url": "https://www.youtube.com/watch?v=ityyr-HHmQs"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Manjar de coco com calda de ameixa | Rita Lobo",
+          "url": "https://www.youtube.com/watch?v=mH1wyuDYjY4"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "The Killers - Live in Glasgow",
+          "url": "https://www.youtube.com/watch?v=E5FS_Yy3WGM"
+        },
+        {
+          "titulo": "Gypsy Fleetwood Mac performed by Rumours of Fleetwood Mac",
+          "url": "https://www.youtube.com/watch?v=oLydlS6fHFg"
+        },
+        {
+          "titulo": "Encounters - Gledden / Glennie / Dymond / Bussey [Ambient]",
+          "url": "https://www.youtube.com/watch?v=7pYxh2w72dM"
+        },
+        {
+          "titulo": "Pink Floyd Learning to fly Live Pulse HQ",
+          "url": "https://www.youtube.com/watch?v=tresPsC7WCA"
         }
       ]
     },

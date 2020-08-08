@@ -1,0 +1,50 @@
+{
+  "categorias": [
+    {
+      "titulo": "Artigos TSOL",
+      "cor": "#9cd33b" ,  
+      "textos": [
+        {
+          "titulo": "Eudaimonia 2020",
+          "url": "https://www.theschooloflife.com/saopaulo/blog/eudaimonia-2020/"
+        },
+        {
+          "titulo": "Diplomacia no escritório",
+          "url": "https://www.theschooloflife.com/saopaulo/blog/diplomacia-no-escritorio/"
+        },
+        {
+          "titulo": "Conhecimento, Sabedoria e Resiliência",
+          "url": "https://www.theschooloflife.com/saopaulo/blog/conhecimento-e-sabedoria/"
+        }
+              
+      ]
+    },
+    {
+      "titulo": "Artigos Outros",
+      "cor": "#00C86F"  ,
+      "textos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    }    
+    
+  ]
+}

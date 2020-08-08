@@ -2,7 +2,9 @@ import React from 'react';
 import Menu from './components/Menu';
 import BannerMain from './components/BannerMain';
 import Carousel from './components/Carousel';
-import dadosIniciais from './dados_iniciais.json'
+import dadosIniciais from './dados_iniciais.json';
+import dadosTextos from './dados_textos.json';
+
 
 function App() {
   return (
@@ -10,20 +12,21 @@ function App() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[1].videos[0].titulo}
-        url={dadosIniciais.categorias[1].videos[0].url}
+        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        url={dadosIniciais.categorias[0].videos[0].url}
         videoDescription="O que é"
       />
 
       <Carousel
-        category={dadosIniciais.categorias[1]}
+        category={dadosIniciais.categorias[0]}
       />
       <Carousel
-        category={dadosIniciais.categorias[2]}
+        category={dadosIniciais.categorias[1]}
       />
        <Carousel
-        category={dadosIniciais.categorias[3]}
+        category={dadosIniciais.categorias[2]}
       />
+      
     </div>
   );
 }
